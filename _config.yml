@@ -22,14 +22,14 @@ repository               : "academicpages/drelinatakola.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "foo-bar-identity-th.jpg"
+  name             : "Dr. Elina Takola (CV)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a group leader of the group BIOECOS"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"e" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
