@@ -25,6 +25,8 @@ Some of my major achievements so far:
 
 🎙️ Presented my research at international conferences and held synthesis workshops in different countries.
 
+🏆 Won multiple prizes and obtained funding for research. 
+
 📢 Actively advocated for open science, promoting transparency, data sharing, and accessible research practices within the ecological community.
 
 🖥️ Actively developed reproducible workflows in R and shares tools with the community to improve transparency and collaboration.
