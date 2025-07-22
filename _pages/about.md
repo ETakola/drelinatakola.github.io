@@ -33,7 +33,7 @@ Some of my major achievements so far:
 
 ------
 
-_Feel free to explore my work, publications, and teaching here. You can also find me on Google Scholar, ORCID, and ResearchGate._
+_Feel free to explore my work, publications, and teaching here. You can also find me on [Google Scholar]([url](https://scholar.google.com/citations?user=kmt3hFoAAAAJ&hl=de&oi=ao)), [ORCID]([url](https://orcid.org/0000-0003-1268-5513)), and [ResearchGate]([url](https://www.researchgate.net/profile/Elina-Takola?ev=hdr_xprf)) or drop me an email (elina.takola@gmail.com)._
 
 
 Thanks for visiting!
