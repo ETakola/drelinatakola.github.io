@@ -1,4 +1,4 @@
-*Welcome! I’m Dr. Elina Takola.*
+#Welcome! I’m Dr. Elina Takola.
 I am a postdoctoral researcher and the leader of the BIOECOS group at Helmholtz Centre for Environmental Research (UFZ).
 This is my website: [https://etakola.github.io/ ]([url](https://etakola.github.io/ ))
 
@@ -21,7 +21,8 @@ Some of my major achievements so far:
 
 🖥️ Actively developed reproducible workflows in R and shares tools with the community to improve transparency and collaboration.
 
-Feel free to explore my work, publications, and teaching here. You can also find me on Google Scholar, ORCID, and ResearchGate or drop me an email: image
+*Feel free to explore my work, publications, and teaching here. You can also find me on Google Scholar, ORCID, and ResearchGate or drop me an email: <img width="314" height="43" alt="image" src="https://github.com/user-attachments/assets/ffdf971f-52b8-4d14-b76e-ff51275ebd22" />*
+
 
 Thanks for visiting!
 ---
