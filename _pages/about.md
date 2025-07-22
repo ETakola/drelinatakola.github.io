@@ -31,6 +31,8 @@ Some of my major achievements so far:
 
 🖥️ Actively developed reproducible workflows in R and shares tools with the community to improve transparency and collaboration.
 
+------
+
 _Feel free to explore my work, publications, and teaching here. You can also find me on Google Scholar, ORCID, and ResearchGate._
 
 
