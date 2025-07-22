@@ -14,7 +14,7 @@ I study how individual animals move and behave in their environments. By combini
 
 
 Some of my major achievements so far: 
-======
+============
 💥Developed new methods combining movement models and remote sensing to understand individual animal behavior.
 
 💭Published research on movement ecology and niche variation in top journals.
