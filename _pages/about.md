@@ -15,8 +15,8 @@ I study how individual animals move and behave in their environments. By combini
 
 Some of my major achievements so far: 
 ======
-1. Developed new methods combining movement models and remote sensing to understand individual animal behavior.
-1. Published research on movement ecology and niche variation in top journals.
+1. 💥Developed new methods combining movement models and remote sensing to understand individual animal behavior.
+1. 💭Published research on movement ecology and niche variation in top journals.
 1. Led projects tracking northern lapwings with high-resolution GPS devices.
 1. Worked with students and collaborators from around the world to explore ecological questions.
 1. Contributed to conservation by linking individual behavior to habitat management.
