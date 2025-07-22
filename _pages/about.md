@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ======
+
 I am a postdoctoral researcher and the leader of the BIOECOS group at Helmholtz Centre for Environmental Research (UFZ).I study how individual animals move and behave in their environments. By combining GPS tracking with satellite data, we’re uncovering how each animal’s unique choices shape their ecological niche. While many studies look at populations as a whole, we know less about what drives differences between individuals. My research focuses on filling that gap, using northern lapwings as a case study to see how individuals select habitat and move differently through the landscape. 
 ======
 Some of my major achievements so far: 
