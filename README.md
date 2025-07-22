@@ -1,4 +1,4 @@
-**Welcome! I’m Dr. Elina Takola.
+*Welcome! I’m Dr. Elina Takola.*
 I am a postdoctoral researcher and the leader of the BIOECOS group at Helmholtz Centre for Environmental Research (UFZ).
 This is my website: [https://etakola.github.io/ ]([url](https://etakola.github.io/ ))
 
