@@ -14,14 +14,22 @@ I study how individual animals move and behave in their environments. By combini
 
 
 Some of my major achievements so far: 
-============
-💥Developed new methods combining movement models and remote sensing to understand individual animal behavior.
+------
+🛰️ Developed new methods combining movement models and remote sensing to uncover how individual animals interact with their environment.
 
-💭Published research on movement ecology and niche variation in top journals.
-1. Led projects tracking northern lapwings with high-resolution GPS devices.
-1. Worked with students and collaborators from around the world to explore ecological questions.
-1. Contributed to conservation by linking individual behavior to habitat management.
-1. Feel free to explore my work, publications, and teaching here. You can also find me on Google Scholar, ORCID, and ResearchGate.
+📚 Published research on movement ecology, individual niche variation, and biodiversity-productivity relationships in leading journals.
+
+🐦 Led GPS tracking projects on bird species across space and time, revealing fine-scale individual differences in habitat use.
+
+🌍 Collaborated with researchers and students across the world to address ecological and conservation challenges.
+
+🎙️ Presented my research at international conferences and held synthesis workshops in different countries.
+
+📢 Actively advocated for open science, promoting transparency, data sharing, and accessible research practices within the ecological community.
+
+🖥️ Actively developed reproducible workflows in R and shares tools with the community to improve transparency and collaboration.
+
+_Feel free to explore my work, publications, and teaching here. You can also find me on Google Scholar, ORCID, and ResearchGate._
 
 
 Thanks for visiting!
