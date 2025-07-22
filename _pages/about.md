@@ -35,7 +35,7 @@ Some of my major achievements so far:
 
 _Feel free to explore my work, publications, and teaching here. You can also find me on [Google Scholar]([url](https://scholar.google.com/citations?user=kmt3hFoAAAAJ&hl=de&oi=ao)), [ORCID]([url](https://orcid.org/0000-0003-1268-5513)), and [ResearchGate]([url](https://www.researchgate.net/profile/Elina-Takola?ev=hdr_xprf)) or drop me an email:_
 
-<img width="106" height="16" alt="image" src="https://github.com/user-attachments/assets/3cbf5b7b-837b-4e67-b6f4-01d07827b409" />
+<img width="327" height="71" alt="image" src="https://github.com/user-attachments/assets/e4187b7e-c498-4ab0-b913-6a20caeb4fa2" />
 
 
 Thanks for visiting!
